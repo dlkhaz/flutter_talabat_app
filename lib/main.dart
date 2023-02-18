@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_talabat_app/Dlkhaz/Dscreen1.dart';
 import 'package:flutter_talabat_app/saraa%20folder/sarascreen.dart';
 
 void main() {
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Saraclas(),
+      home: Dleclass(),
     );
   }
 }
