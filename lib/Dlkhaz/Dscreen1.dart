@@ -7,6 +7,8 @@ class Dleclass extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(appBar: AppBar( backgroundColor: Colors.lightBlue, title: Center(child: Text("dlxaz Screen")),),);
+    return Scaffold(appBar: AppBar( 
+      backgroundColor: Color.fromARGB(255, 136, 61, 136), 
+      title: Center(child: Text("dlxaz Screen")),),);
 }
-}
+} 
