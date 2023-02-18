@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
+
 
 class Dleclass extends StatelessWidget {
   const Dleclass({super.key});
@@ -8,7 +8,7 @@ class Dleclass extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(appBar: AppBar( 
-      backgroundColor: Color.fromARGB(255, 134, 106, 134), 
+      backgroundColor: Color.fromARGB(255, 147, 184, 63), 
       title: Center(child: Text("dlxaz Screen")),),);
 }
 } 
